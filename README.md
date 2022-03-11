@@ -26,5 +26,4 @@ if you want to change or add your own. goto and edit 'resources/app/config.json'
 
 
 # Side Stuff i plan todo
--fix the mis labeled lfs files<br>
 -i will create a linux and mac version later when im done
