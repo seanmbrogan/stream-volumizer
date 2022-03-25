@@ -5,45 +5,24 @@
   },
   "volumes": [
     {
-      "default": 0.15
+      "default": "0.15"
     },
     {
       "lookfor": [
         [
           "currentShow",
-          0,
+          "0",
           "name"
         ],
         "Galnet News"
       ],
       "volume": 0.3
-    },
-    {
-      "lookfor": [
-        [
-          "currentShow",
-          0,
-          "name"
-        ],
-        "Clan Ads"
-      ],
-      "volume": 0.3
-    },
-    {
-      "lookfor": [
-        [
-          "currentShow",
-          0,
-          "name"
-        ],
-        "Commercial Break"
-      ],
-      "volume": 0.05
     }
   ],
   "read_cmd_file": "false",
   "default_size": [
-    0,
-    0
-  ]
+    686,
+    900
+  ],
+  "error": false
 }
